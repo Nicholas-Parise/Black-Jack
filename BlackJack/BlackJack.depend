@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571284303 source:c:\users\nop\desktop\c++ code\blackjack\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<cctype>
+
